@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Let\'s Chat</string>
+    <string name="enter_username">Enter username</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
